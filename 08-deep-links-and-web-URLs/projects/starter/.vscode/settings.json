@@ -1,3 +1,8 @@
 {
-    "dart.flutterSdkPath": "/Users/vincentngo/flutterStable"
+    "dart.flutterSdkPath": "/Users/vincentngo/flutterStable",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#3F214B",
+        "titleBar.activeBackground": "#592E69",
+        "titleBar.activeForeground": "#FDFBFD"
+    }
 }
